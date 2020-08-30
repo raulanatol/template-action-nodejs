@@ -1,6 +1,6 @@
 {
   "name": "template-action-nodejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple nodejs action template",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,10 @@
     "url": "git+https://github.com/raulanatol/template-action-nodejs.git"
   },
   "keywords": [
-    "template", "github", "action", "boilerplate"
+    "template",
+    "github",
+    "action",
+    "boilerplate"
   ],
   "author": "raulanatol",
   "license": "MIT",
